@@ -4,7 +4,7 @@
 
 
 <p align="center">Hi, my name is HyeongchanJo I'm student of Ajou Univ. 
-<br>I study development and like accept new thing that I don't know. 
+<br>I study development and like accepting new thing that I don't know. 
 <br>Plus, I like bodybuilding and powerlifting.</p>
 <br>
 <br>
