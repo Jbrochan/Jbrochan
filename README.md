@@ -39,6 +39,7 @@ Used At Least Once
 <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=Oculus&logoColor=white">
 
 <img src="https://img.shields.io/badge/SQlite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+<img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=Processing Foundation&logoColor=white">
 </p>
 
 <p align="center">
